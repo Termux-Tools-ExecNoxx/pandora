@@ -1,0 +1,23 @@
+PANDORA TOOL 🔥
+
+1. apt update && apt upgrade && pkg update && pkg upgrade
+
+    2. pkg install curl
+
+    3. pkg install wget
+
+    4. pkg install python3
+
+    5. pkg install git
+
+    6. pkg install figlet
+
+    7. git clone https://github.com/MrSanZz/pandora
+
+    8. cd pandora
+
+    9. pip3 install -r requirements.txt
+
+    10. python3 pandora.py
+
+    11. If the tool has an error in the module, try typing python3 setup.py
